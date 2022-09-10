@@ -2,8 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *
- * main - Print a number 
+ * main - Print a number
  * 
  * Return: Always (Success)
  */
@@ -21,7 +20,7 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-else 
+	else
 	{
 		printf("%d is negative\n", n);
 	}
