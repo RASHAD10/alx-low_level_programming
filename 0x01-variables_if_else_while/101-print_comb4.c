@@ -11,7 +11,7 @@ int main(void)
 
 	for (i = 0; i <= 9; i++)
 	{
-		f0r (p = 1; p <= 9; p++)
+		for (p = 1; p <= 9; p++)
 		{
 			for (m = 2; m <= 9; m++)
 			{
