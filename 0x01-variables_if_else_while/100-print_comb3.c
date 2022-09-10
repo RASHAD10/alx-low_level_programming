@@ -21,7 +21,7 @@ int main(void)
 			if (j > i)
 
 			{
-				putchar(i + 'o');
+				putchar(i + '0');
 				putchar(j + '0');
 
 				if (i != 8)
