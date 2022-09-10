@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print cmbo of 3
+ * main - print combo of 3
  *
  * Return: returns zero
  */
