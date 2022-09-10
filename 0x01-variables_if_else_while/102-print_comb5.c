@@ -2,7 +2,7 @@
 /**
  * main - Print two digits combination numbers
  *
- * Returns: returns zero 
+ * Returns: returns zero
  */
 int main(void)
 {
@@ -19,13 +19,17 @@ int main(void)
 				putchar(' ');
 				putchar((p / 10) + '0');
 				putchar((p % 10) + '0');
-						if (i != 98)
-						{
-						putchar(',');
-						putchar(' ');						}
-						}
-						}
-						}
-						putchar('\n');
-						return (0);}
+			
+				if (i != 98)
+				{
+					putchar(',');
+					putchar(' ');
+				}
+						
+			}
+		}
+	}
+	putchar('\n');
+	return (0);
+}
 						
