@@ -2,7 +2,7 @@
 /**
  * main - Print two digits combination numbers
  *
- * Returns: returns zero
+ * Return: returns zero
  */
 int main(void)
 {
